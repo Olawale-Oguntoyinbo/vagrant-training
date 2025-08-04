@@ -16,3 +16,5 @@ wp core config --dbname=mywordpress --dbuser=root --dbpass=123 --force --allow-r
 wp core install --url=mywordpress.local --title=MyWordPress --admin_user=admin --admin_password=admin --admin_email=info@example.com --allow-root
 
 echo "+++++++++++++++++ Done Installing WordPress! +++++++++++++++++"
+
+#testing repo
