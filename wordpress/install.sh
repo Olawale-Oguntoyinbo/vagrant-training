@@ -18,3 +18,4 @@ wp core install --url=mywordpress.local --title=MyWordPress --admin_user=admin -
 echo "+++++++++++++++++ Done Installing WordPress! +++++++++++++++++"
 
 #testing repo
+##testing two
